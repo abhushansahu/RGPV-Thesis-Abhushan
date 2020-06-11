@@ -13,7 +13,7 @@ MathJax.Hub.Config({
  </head>
 <body style="margin: 0px; padding: 0px; height: 100%; overflow: hidden;">
 
-<embed src="https://abhushansahu.github.io/RGPV-Thesis-Abhushan/RGPV_Thesis_Abhushan.pdf" type="application/pdf" />
+<embed src="https://abhushansahu.github.io/RGPV-Thesis-Abhushan/memoirthesis.tex" type="application/pdf" />
 
 </body>
 </html>
